@@ -2,7 +2,7 @@
 
 Website portofolio pribadi yang dirancang untuk menampilkan profil teknis, proyek unggulan, tech stack, dan sertifikasi.
 
-Live Preview: 
+Live Preview: https://sheireitei.github.io/pemweb-tugas1-42530063/
 
 ---
 
